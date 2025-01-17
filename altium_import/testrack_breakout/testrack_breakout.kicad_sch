@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4b64c24c-fc83-4aaf-8f7c-650cf016bea5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 64.77 59.69)
+		(size 43.18 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "96276a16-1921-41d7-a4c4-e3f8bcb79e1f")
+		(property "Sheetname" "Connectors"
+			(at 64.77 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 64.77 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "testrack_breakout"
+				(path "/4b64c24c-fc83-4aaf-8f7c-650cf016bea5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 58.42)
+		(size 40.64 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ace1f569-9ca5-4250-8b46-1075444d8ba3")
+		(property "Sheetname" "Target"
+			(at 147.32 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "target.kicad_sch"
+			(at 147.32 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "testrack_breakout"
+				(path "/4b64c24c-fc83-4aaf-8f7c-650cf016bea5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

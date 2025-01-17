@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4f55cf3c-3248-4ee4-bf4f-ff54bd3d747f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 156.21 54.61)
+		(size 49.53 49.53)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f7aa3f53-84b3-4c68-b6c1-c53d889d67eb")
+		(property "Sheetname" "Edge"
+			(at 156.21 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "edge.kicad_sch"
+			(at 156.21 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "testrack_module_breakout"
+				(path "/4f55cf3c-3248-4ee4-bf4f-ff54bd3d747f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "connectors-altium-import")(type "KiCad")(uri "${KIPRJMOD}/connectors-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "edge-altium-import")(type "KiCad")(uri "${KIPRJMOD}/edge-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "mcu-altium-import")(type "KiCad")(uri "${KIPRJMOD}/mcu-altium-import.kicad_sym")(options "")(descr ""))
+)

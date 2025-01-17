@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "de875920-d90c-4f32-a526-a64b6e83ec2c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 168.91 66.04)
+		(size 44.45 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6ff9bba2-c560-489f-a8f7-89dabe9a9753")
+		(property "Sheetname" "Edge"
+			(at 168.91 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "edge.kicad_sch"
+			(at 168.91 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "testrack_module_stm32f7v"
+				(path "/de875920-d90c-4f32-a526-a64b6e83ec2c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 66.04)
+		(size 44.45 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e46ab995-6536-420a-a2cc-51444babe6ed")
+		(property "Sheetname" "MCU"
+			(at 113.03 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 113.03 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "testrack_module_stm32f7v"
+				(path "/de875920-d90c-4f32-a526-a64b6e83ec2c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
