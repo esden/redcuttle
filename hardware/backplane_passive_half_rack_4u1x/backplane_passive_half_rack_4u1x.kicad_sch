@@ -11,6 +11,7 @@
 		(comment 1 "(C) 2024 1BitSquared")
 		(comment 2 "(C) 2024 Piotr Esden-Tempski")
 		(comment 3 "License: CC-BY-SA 4.0")
+		(comment 4 "Based on original design by Zyp")
 	)
 	(lib_symbols)
 	(junction
