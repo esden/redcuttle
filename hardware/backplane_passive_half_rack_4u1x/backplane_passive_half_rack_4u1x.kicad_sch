@@ -2832,7 +2832,7 @@
 				(justify left top)
 			)
 		)
-		(property "RAddr" "3k55"
+		(property "RAddr" "3k65"
 			(at 193.04 141.224 0)
 			(show_name yes)
 			(effects
@@ -3345,7 +3345,7 @@
 				(justify left top)
 			)
 		)
-		(property "RAddr" "4k09"
+		(property "RAddr" "4k22"
 			(at 228.6 141.224 0)
 			(show_name yes)
 			(effects
